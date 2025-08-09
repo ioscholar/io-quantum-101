@@ -27,7 +27,16 @@ The IO Quantum Summer School is a comprehensive program that bridges theory and 
 
 ## 🛠️ Getting Started
 
-### 1. Environment Setup
+### 1. Clone the Repository
+
+First, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/ioscholar/io-quantum-101.git
+cd io-quantum-101
+```
+
+### 2. Environment Setup
 
 Create and activate a virtual environment:
 
@@ -45,7 +54,7 @@ conda create -n ioq python=3.9
 conda activate ioq
 ```
 
-### 2. Install Dependencies
+### 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -58,7 +67,7 @@ pip install -r requirements.txt
 - `matplotlib==3.10.5` - Plotting and visualization
 - `pylatexenc==2.10` - LaTeX encoding support
 
-### 3. Launch Jupyter Notebook
+### 4. Launch Jupyter Notebook
 Navigate to the lab directory and open the desired notebook file.
 
 **Recommended IDEs:**
