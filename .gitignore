@@ -1,0 +1,4 @@
+venv/
+ioq/
+.ipynb_checkpoints/
+__pycache__/
